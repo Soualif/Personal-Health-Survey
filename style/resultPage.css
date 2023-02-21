@@ -1,0 +1,50 @@
+.cont-res {
+  font-family: raleway;
+  margin: 0px 10px 0px 10px;
+  padding-bottom: 10%;
+}
+.result {
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+.table-count {
+  border-top: 1px solid black;
+  padding: 10px 0px 10px 0px;
+  width: 3%;
+}
+.table-frage {
+  border-top: 1px solid black;
+  padding: 10px 0px 10px 0px;
+  font-size: 15px;
+  width: 70%;
+}
+.table-antwort {
+  border-top: 1px solid black;
+  padding: 10px 0px 10px 0px;
+  font-size: 12px;
+  text-align: center;
+  width: 27%;
+}
+.list {
+  margin: auto;
+  text-align: center;
+}
+.img-heart {
+  width: 50px;
+}
+.bad {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+.normal {
+  color: rgb(26, 54, 105);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.good {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
